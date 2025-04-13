@@ -6,11 +6,9 @@
     --color-hoverspt: hsl(142.6,79.9%,46.9%);
     --color-purple-main: hsl(229.3,60.9%,45.1%);
     --color-green-main: hsl(141.4,75.5%,48%);
-    --background-image-spotify-theme: url('/img/bursts.svg');
-    --background-image-spotify-theme-mobile: url('/img/bursts-mobile.svg');
+    --background-image-spotify-theme: url('/src/img/bursts.svg');
+    --background-image-spotify-theme-mobile: url('/src/img/bursts-mobile.svg');
     --breakpoint-175: 175%;
     --breakpoint-195: 195%;
-    --backgorund-position-banner: 46% 4%;
-    --background-position-banner-mobile: top 25% center;
     --text-9x1: 9rem
 }
